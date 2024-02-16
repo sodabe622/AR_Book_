@@ -1,7 +1,7 @@
-AR_Book
-Augmented Reality Book Cover Project
+ BookCover Project
 ----------------------------------------
-
+Book Title: Software Engineering
+--------------------------------------------
 Author: Sodabe Bandali
 
 Course: CS , Spring 2024
@@ -41,3 +41,18 @@ Setup Instructions:
 3.Register for an account and install the latest Unity Editor version, including necessary modules based on your operating system. For instance, modules for Android and Windows build support were added for this project.
 
 4.(Optional) For the latest features, create a Vuforia Developer Account and download the latest Vuforia package, although the repository's version is also suitable for this project.
+
+
+Limitation:
+--------------------------
+
+
+
+
+
+
+
+
+
+Video:
+---------------------------
