@@ -1,5 +1,4 @@
-AR_Book
-Augmented Reality Book Cover Project
+ Book Cover Project
 ----------------------------------------
 
 Author: Sodabe Bandali
