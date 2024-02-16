@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="backnew" size="1.000000 1.333333" />
     <ImageTarget name="FR1" size="0.080000 0.106667" />
     <ImageTarget name="B2" size="0.050000 0.066667" />
     <ImageTarget name="F2" size="0.080000 0.106667" />
