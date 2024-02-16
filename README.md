@@ -1,6 +1,7 @@
- Book Cover Project
+ BookCover Project
 ----------------------------------------
-
+Book Title: Software Engineering
+--------------------------------------------
 Author: Sodabe Bandali
 
 Course: CS , Spring 2024
@@ -45,3 +46,13 @@ Setup Instructions:
 Limitation:
 --------------------------
 
+
+
+
+
+
+
+
+
+Video:
+---------------------------
