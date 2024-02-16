@@ -36,11 +36,11 @@ Setup Instructions:
 ---------------------------------------------------------------
 1. Clone the Repository: Start by cloning the project repository to your local machine. This will give you access to all the necessary files to run the project.
 
-2.Register for an account and install the latest Unity Editor version, including necessary modules based on your operating system. For instance, modules for Android and Windows build support were added for this project.
+2. Register for an account and install the latest Unity Editor version, including necessary modules based on your operating system. For instance, modules for Android and Windows build support were added for this project.
 
-3.Open the Project in Unity, Launch Unity and navigate to the folder where you cloned the repository. Open the project to load it into Unity
+3. Open the Project in Unity, Launch Unity and navigate to the folder where you cloned the repository. Open the project to load it into Unity
 
-4.(Optional) For the latest features, create a Vuforia Developer Account and download the latest Vuforia package, although the repository's version is also suitable for this project.
+4. (Optional) For the latest features, create a Vuforia Developer Account and download the latest Vuforia package, although the repository's version is also suitable for this project.
 
 
  Running the AR Book Cover Project:
