@@ -34,8 +34,7 @@ To access these files, GitHub LFS must be installed (git lfs install). Files are
 
 Setup Instructions:
 ---------------------------------------------------------------
-1. Cloning the Repository and Initial Setup
-Clone the Repository: Start by cloning the project repository to your local machine. This will give you access to all the necessary files to run the project.
+1. Clone the Repository: Start by cloning the project repository to your local machine. This will give you access to all the necessary files to run the project.
 
 2.Register for an account and install the latest Unity Editor version, including necessary modules based on your operating system. For instance, modules for Android and Windows build support were added for this project.
 
