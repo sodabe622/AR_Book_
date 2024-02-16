@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="FR1" size="0.080000 0.106667" />
+    <ImageTarget name="B2" size="0.050000 0.066667" />
+    <ImageTarget name="F2" size="0.080000 0.106667" />
+    <ImageTarget name="B1" size="0.500000 0.666667" />
+    <ImageTarget name="F1" size="0.800000 1.066667" />
+    <ImageTarget name="back1" size="0.050000 0.066667" />
+    <ImageTarget name="Front" size="0.050000 0.066667" />
+    <ImageTarget name="back" size="0.500000 0.666667" />
+    <ImageTarget name="MyPosterTarget" size="0.500000 0.666667" />
+  </Tracking>
+</QCARConfig>
