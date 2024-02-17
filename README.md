@@ -54,12 +54,13 @@ Run the Scene: With the scene selected, press the "Run" button to start the simu
   Before starting, you should navigate to the "Assets" section in Unity and search for "ImageTarget." Within this section, you will find folders containing the front cover and back cover images of the book. Before running your project, make sure to download these images. After starting the application and activating the camera, you can use these specific images to view 3D objects and texts augmented onto them
 
 3. Interacting with the AR Book Cover
-Front Page Interaction:
 
-Hold the Front Page: Position the front page of the book in front of your web camera. Make sure the entire cover is visible to the camera.
+-Hold the Front Page: 
+
+Position the front page of the book in front of your web camera. Make sure the entire cover is visible to the camera.
 View 3D Models: Once the front page is recognized, 3D models corresponding to the chair, desktop, laptop, and 3d assests, the book's title, and the author's name should appear overlaying the physical book cover.
 
-Back Page Interaction:
+-Back Page Interaction:
 
 Hold the Back Page: Next, show the back page of the book to your web camera, similarly ensuring it's well positioned for recognition.
 View General Information: The AR system will display general information about the book, including the author's name, the date of publication, and the total number of pages.
