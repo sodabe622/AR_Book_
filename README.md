@@ -75,7 +75,7 @@ Limitation:
 The code has a problem because the virtual button doesn't work anymore. 
 
 
-Image:
+TargetImages:
 ----------------
 ![front](https://github.com/sodabe622/AR_Book_/assets/61977495/fef935bf-c6fc-45f3-8778-bb215f66bb29)
 ![back](https://github.com/sodabe622/AR_Book_/assets/61977495/e0aabecd-25b7-4f94-a44f-bb753a724973)
