@@ -47,17 +47,19 @@ Setup Instructions:
 --------------------------------------------------------
 
 1. Running the AR Scene
+
 Navigate to the Scene: Once the project is open in Unity, go to the Assets/Scenes directory. Here, you will find the scene named BookCover. Select this scene to work with it.
 Run the Scene: With the scene selected, press the "Run" button to start the simulation. This will activate the AR functionality within the Unity editor.
 
 2. Downloding ImageTarget
+
   Before starting, you should navigate to the "Assets" section in Unity and search for "ImageTarget." Within this section, you will find folders containing the front cover and back cover images of the book. Before running your project, make sure to download these images. After starting the application and activating the camera, you can use these specific images to view 3D objects and texts augmented onto them
 
 3. Interacting with the AR Book Cover
 
--Hold the Front Page: 
+-Front Page Interaction:
 
-Position the front page of the book in front of your web camera. Make sure the entire cover is visible to the camera.
+Hold the Front Page: Position the front page of the book in front of your web camera. Make sure the entire cover is visible to the camera.
 View 3D Models: Once the front page is recognized, 3D models corresponding to the chair, desktop, laptop, and 3d assests, the book's title, and the author's name should appear overlaying the physical book cover.
 
 -Back Page Interaction:
@@ -70,16 +72,7 @@ For more details about the book, there are three buttons available. The first bu
 Limitation:
 --------------------------
 
-
-
-
-
-
-
-
-
-Video:
----------------------------
+The code has a problem because the virtual button doesn't work anymore. 
 
 
 Image:
