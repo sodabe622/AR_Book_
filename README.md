@@ -74,8 +74,10 @@ Limitation:
 
 The code has a problem because the virtual button doesn't work anymore. 
 
+Videos:
+---------------------------------------------------
+https://drive.google.com/drive/folders/1SCx1eEHflKL8pcYUE2ERZ544esgb4C8M
 
 TargetImages:
 ----------------
-![front](https://github.com/sodabe622/AR_Book_/assets/61977495/fef935bf-c6fc-45f3-8778-bb215f66bb29)
-![back](https://github.com/sodabe622/AR_Book_/assets/61977495/e0aabecd-25b7-4f94-a44f-bb753a724973)
+https://drive.google.com/drive/folders/1GrEFAV4R0Q8lWBkzapm1q1MjJ1Z8VKkP
