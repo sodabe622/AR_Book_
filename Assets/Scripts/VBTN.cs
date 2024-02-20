@@ -15,7 +15,7 @@ public class VBTN : MonoBehaviour
         Vb.RegisterOnButtonPressed(OnButtonPressed);
         Vb.RegisterOnButtonReleased(OnButtonReleased);
 
-        review.SetActive(false);
+       cube.SetActive(false);
         
     }
 
