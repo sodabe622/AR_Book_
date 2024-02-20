@@ -69,6 +69,11 @@ View General Information: The AR system will display general information about t
 Accessing the Review:
 For more details about the book, there are three buttons available. The first button, labeled "Pictures," allows you to view various images related to the book. The second button provides brief details about the book, such as the title, pages, and publisher. The third button, "More Details," offers a summary of the book's content. Each section includes a "Close" button, enabling you to return to the main menu, which displays the book's title and author's name.
 
+Tutorial Used:
+---------------------------
+1. Make a virtual button (https://www.youtube.com/watch?v=Ckw4RKKVE3k)
+2.Add augmented text to an image target (https://www.youtube.com/watch?v=uyweJ9lPD90)
+
 Limitation:
 --------------------------
 
