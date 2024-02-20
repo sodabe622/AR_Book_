@@ -72,7 +72,9 @@ For more details about the book, there are three buttons available. The first bu
 Tutorial Used:
 ---------------------------
 1. Make a virtual button (https://www.youtube.com/watch?v=Ckw4RKKVE3k)
-2.Add augmented text to an image target (https://www.youtube.com/watch?v=uyweJ9lPD90)
+2. Add augmented text to an image target (https://www.youtube.com/watch?v=uyweJ9lPD90)
+
+
 
 Limitation:
 --------------------------
