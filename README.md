@@ -79,7 +79,7 @@ Tutorial Used:
 Limitation:
 --------------------------
 
-The code has a problem because the virtual button doesn't work anymore. 
+The package for the virtual button has a problem because the virtual button doesn't work anymore, but you can look at the tutorial that I added here for that.
 
 Videos:
 ---------------------------------------------------
